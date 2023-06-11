@@ -1,7 +1,7 @@
 const productos = [
     {
         id: 1,
-        title: "Placa de Video ASUS Rog Strix 3070ti",
+        title: "Placa de video ASUS Rog Strix 3070ti",
         description: "Los bloques de construcción para la GPU más rápida y eficiente del mundo, el nuevo Ampere SM ofrece el doble de rendimiento FP32 y una eficiencia energética mejorada.",
         stock: 15,
         type: "placa de video",
@@ -14,7 +14,7 @@ const productos = [
 
     {
         id: 2,
-        title: "Placa De Video MSI rtx 3050",
+        title: "Placa de video MSI rtx 3050",
         description: "La última versión de la icónica serie GAMING de MSI ofrece una vez más el rendimiento, la eficiencia con bajo nivel de ruido y la estética que los jugadores incondicionales reconocen y confían.",
         stock: 7,
         type: "placa de video",
@@ -27,7 +27,7 @@ const productos = [
 
     {
         id: 3,
-        title: "Placa De Video Nvidia Asus TUF RTX 3080",
+        title: "Placa deideo Nvidia Asus TUF RTX 3080",
         description: "Nvidia es el fabricante líder de placas de video; su calidad asegura una experiencia positiva en el desarrollo del motor gráfico de tu computadora. Además, sus procesadores usan tecnología de punta para que puedas disfrutar de un producto veloz y duradero",
         stock: 20,
         type: "placa de video",
